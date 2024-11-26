@@ -14,4 +14,9 @@ Hello
 Zdez byl kolya
 ghghghghg
 ghghghghghg
+<<<<<<< HEAD
 fghhg
+=======
+😎😎😎😎😎😎😎😎😎
+>>>>>>> 8ba1f1e12074e323f4a11ea6eec7839a3aca6113
+>>>>>>> 3e491c58a737d494215839efe454f2c92e5e919b
